@@ -47,6 +47,12 @@ p {
     margin-bottom: 15px;
 }
 
+p.color-black.margin-b-1 {
+  font-family: Helvetica;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
 em,
 li,
 li a {
