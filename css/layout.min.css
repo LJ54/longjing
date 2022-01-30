@@ -258,6 +258,17 @@ h4 {
     outline: 0
 }
 
+
+.boxed {
+  border: 1px;
+}
+.rightcenter {
+  display: block;
+  margin-left: 50%;
+  margin-right: auto;
+  width: 50%;
+}
+
 .btn-theme.disabled,
 .btn-theme[disabled],
 fieldset[disabled] .btn-theme {
