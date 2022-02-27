@@ -79,7 +79,7 @@ html a {
 p {
     font-size: 15px;
     font-weight: 400;
-    color: #a6a7aa;
+    color: #000000;
     margin-bottom: 15px
 }
 
@@ -94,11 +94,11 @@ li,
 li a {
     font-size: 16px;
     font-weight: 500;
-    color: #515769
+    color: #000000
 }
 
 a {
-    color: #81848f
+    color: #0D0907
 }
 
 a:active,
