@@ -43,7 +43,9 @@ span {
 .back-to-top,
 .header .nav-item-child,
 .link {
-    text-transform: uppercase
+/*    text-transform: uppercase;*/
+        font-size: 18px;
+    font-family: Hind, sans-serif
 }
 
 .back-to-top:focus,
@@ -136,7 +138,7 @@ h4,
 h5,
 h6 {
     font-weight: 700;
-    color: #515769;
+    color: black;
     line-height: 1.4;
     margin: 0 0 15px
 }
@@ -488,7 +490,7 @@ fieldset[disabled] .btn-theme {
     left: 0;
     width: 9px;
     height: 2px;
-    background: #b39ddb;
+    background: white;
     content: " "
 }
 
